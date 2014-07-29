@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/image">
+        <file alias="word">QQ图片20140719165625.jpg</file>
+        <file alias="pen">QQ图片20140719165638.jpg</file>
+        <file alias="eraser">QQ图片20140719165648.jpg</file>
+        <file alias="color">QQ图片20140719165704.jpg</file>
+        <file alias="brush">QQ图片20140719165947.jpg</file>
+        <file alias="big">QQ图片20140725132554.jpg</file>
+        <file alias="small">QQ图片20140725132616.jpg</file>
+        <file alias="right">QQ图片20140725192212.jpg</file>
+        <file alias="left">QQ图片20140725192319.jpg</file>
+        <file alias="select">QQ图片20140726125914.jpg</file>
+        <file alias="tianchong">QQ图片20140726164007.jpg</file>
+        <file alias="ud">QQ图片20140726175346.jpg</file>
+        <file alias="lr">QQ图片20140726175405.jpg</file>
+        <file alias="pen2">QQ图片20140727163440.jpg</file>
+        <file alias="brush2">QQ图片20140727163715.jpg</file>
+        <file alias="eraser2">QQ图片20140727163830.jpg</file>
+        <file alias="word2">QQ图片20140727163950.jpg</file>
+        <file alias="select2">QQ图片20140727164027.jpg</file>
+        <file alias="line">QQ图片20140727165101.jpg</file>
+        <file alias="polygon">QQ图片20140727165115.jpg</file>
+        <file alias="rectangle">QQ图片20140727165131.jpg</file>
+        <file alias="ellipse">QQ图片20140727165200.jpg</file>
+        <file alias="save">QQ图片20140727170226.jpg</file>
+        <file alias="open">QQ图片20140727170848.jpg</file>
+        <file alias="new">QQ图片20140727170941.jpg</file>
+        <file alias="undo">QQ图片20140727171109.jpg</file>
+        <file alias="redo">QQ图片20140727171120.jpg</file>
+    </qresource>
+</RCC>
